@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectTouch", "DetectTouch\DetectTouch.csproj", "{B1A17393-E373-4533-8428-F1A38C8673DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Release|iPhone.Build.0 = Release|iPhone
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B1A17393-E373-4533-8428-F1A38C8673DB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DetectTouch\DetectTouch.csproj
+	EndGlobalSection
+EndGlobal
